@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ac849ad360964e349884114789d566b6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 20
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Axaxax
+  fontNames:
+  - Axaxax
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: afbef83c87de0f5498194a12253c3c43, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

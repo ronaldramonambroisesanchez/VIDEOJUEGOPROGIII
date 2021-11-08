@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2bc3c1d423db2d14dbf3e9bf5331a954
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MenuPerder: {instanceID: 0}
+  - musicadefondo: {fileID: 5433621368263363767, guid: ee51d9f55720c6c45b520d345ee14a90,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

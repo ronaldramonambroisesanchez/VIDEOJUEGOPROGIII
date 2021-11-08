@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4c2d6b5c34af5a448d325d2ee736e02
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameoversonido: {fileID: 1221268782556869817, guid: a9657dec93c2cdc44be0ea91a80eae32,
+      type: 3}
+  - manager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
